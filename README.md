@@ -1,6 +1,6 @@
 # MyCraigList
 
-CREDIT TO THE AWSOME YOUTUBE TOTURIALS:
+CREDIT TO THESE AWSOME YOUTUBE TOTURIALS:
 
   https://www.youtube.com/watch?v=JT80XhYJdBw
   
